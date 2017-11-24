@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  UITabs
 //
-//  Created by Johnny Chapman on 11/6/17.
+//  Created by Christine Berger on 11/6/17.
 //  Copyright © 2017 Christine Berger. All rights reserved.
 //
 
